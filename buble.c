@@ -4,7 +4,7 @@ int main()
 {
   int array[100], n, c, d, swap;
 
-  printf("Enter number of elements\n");
+  printf("Enter no. of elements\n");
   scanf("%d", &n);
 
   printf("Enter %d integers\n", n);
